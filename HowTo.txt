@@ -1,0 +1,7 @@
+1. Consider a camera placed on a tripod/handheld and moved as you keep taking pictures.
+2. Capture a set of 8-10 images of a scene which is far away from the camera. Avoid translational motion. Capture 5 such set of images.
+3. Make sure there is at least 30% overlap of the scene between the images captured.
+4. Design an algorithm for Mosaic/Panorama Image generation using Homography estimated from the overlap regions.
+5. Show results on 5 sets of images.
+
+In-built functions used for feature extraction and description using SIFT/SURF/ORB. Feature Matching and Homography estimation implemented from scratch.
